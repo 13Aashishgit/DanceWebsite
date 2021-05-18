@@ -1,0 +1,1 @@
+1. we create the app.js then strt the new terminal and then we write in that  #npm init
